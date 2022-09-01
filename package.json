@@ -1,0 +1,11 @@
+{
+  "name": "time-nodejs",
+  "version": "1.0.6",
+  "description": "Easy manage of time in node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aguadecoco1301",
+  "license": "ISC"
+}
