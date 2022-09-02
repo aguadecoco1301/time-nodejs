@@ -19,7 +19,6 @@ let	build = (time) => {
 			seconds:	time / 1000,
 			ms:		time
 		}
-	}
 }
 
 module.exports = {
