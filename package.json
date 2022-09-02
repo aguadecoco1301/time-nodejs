@@ -1,6 +1,6 @@
 {
   "name": "time-nodejs",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Easy manage of time in node.js",
   "main": "index.js",
   "scripts": {
