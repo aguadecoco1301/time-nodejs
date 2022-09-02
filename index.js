@@ -8,7 +8,7 @@ let minutes = (m) => {
 let hours = (h) => {
 	return h * 60 * 60 * 1000
 }
-let hoursdays = (d) => {
+let days = (d) => {
 	return d * 24 * 60 * 60 * 1000
 }
 let	build = (time) => {
