@@ -1,14 +1,14 @@
 //#!usr/bin/env node
-let seconds = (s) => {
+let seconds = (seconds) => {
 	return s * 1000
 }
-let minutes = (m) => {
+let minutes = (minutes) => {
 	return m * 60 * 1000
 }
-let hours = (h) => {
+let hours = (hours) => {
 	return h * 60 * 60 * 1000
 }
-let days = (d) => {
+let days = (days) => {
 	return d * 24 * 60 * 60 * 1000
 }
 let	build = (time) => {
