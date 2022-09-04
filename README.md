@@ -1,5 +1,5 @@
 # time-nodejs
-Time nodejs is module to convert human read-able time to ms.
+Time nodejs is a module to convert human read-able time to ms.
 Just only save you to realize the calc
 # Functions
 ```
