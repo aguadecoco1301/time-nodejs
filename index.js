@@ -1,15 +1,15 @@
 //#!usr/bin/env node
 let seconds = (seconds) => {
-	return s * 1000
+	return seconds * 1000
 }
 let minutes = (minutes) => {
-	return m * 60 * 1000
+	return minutes * 60 * 1000
 }
 let hours = (hours) => {
-	return h * 60 * 60 * 1000
+	return hours * 60 * 60 * 1000
 }
 let days = (days) => {
-	return d * 24 * 60 * 60 * 1000
+	return days * 24 * 60 * 60 * 1000
 }
 let	build = (time) => {
 		return {
